@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+python-dateutil
+scikit-learn
+xgboost
+joblib
+openpyxl
+scipy
+python-pptx
+fpdf2 # Optional: If you plan to implement PDF export
